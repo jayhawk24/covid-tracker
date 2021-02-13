@@ -2,7 +2,7 @@ import React from "react";
 
 const Table = ({ data }) => {
   return (
-    <div className="tableContainer">
+    <div className="p-3">
       <table className="table">
         <thead>
           <tr>
